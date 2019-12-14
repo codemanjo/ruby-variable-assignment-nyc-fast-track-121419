@@ -2,4 +2,4 @@ array = []
 100.times do |i|
     array.push(i+1)
 end
-puts array 
+print (array)
